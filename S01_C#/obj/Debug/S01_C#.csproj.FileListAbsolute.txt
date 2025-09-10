@@ -6,3 +6,11 @@ C:\Users\UPN\Desktop\PROJECTS\FA_8454\S01_C#\obj\Debug\S01_C#.csproj.CoreCompile
 C:\Users\UPN\Desktop\PROJECTS\FA_8454\S01_C#\obj\Debug\S01_C#.exe
 C:\Users\UPN\Desktop\PROJECTS\FA_8454\S01_C#\obj\Debug\S01_C#.pdb
 C:\Users\UPN\Desktop\PROJECTS\FA_8454\S01_C#\obj\Debug\S01_C#.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\bin\Debug\S01_C#.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\bin\Debug\S01_C#.exe
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\bin\Debug\S01_C#.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\obj\Debug\S01_C#.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\obj\Debug\S01_C#.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\obj\Debug\S01_C#.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\obj\Debug\S01_C#.exe
+C:\Users\Lenovo\OneDrive\Escritorio\FA\S03_FUND_ALGORITHMS\S01_C#\obj\Debug\S01_C#.pdb
